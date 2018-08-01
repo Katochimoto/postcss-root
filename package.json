@@ -1,0 +1,11 @@
+{
+  "name": "postcss-root",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Katochimoto/postcss-root.git",
+  "author": "Katochimoto <bufpost@yandex.ru>",
+  "license": "MIT",
+  "peerDependencies": {
+    "postcss": "^7.0.2"
+  }
+}
